@@ -22,6 +22,11 @@ This repository contains the code and data for the paper "EvoChart: A Benchmark 
 
 **🚀🚀🚀The EvoChart-QA Benchmark can be downloaded at:** [drive.google.com](https://drive.google.com/file/d/17i9WPi_AKVc6OZopBblm4BghwXCwhTrm/view?usp=drive_link)
 
+**EvoChart-QA Benchmark Answer Verification:**
+
+* If the `is_clear` is True, string matching should be used to determine correctness.
+* If the `is_clear` is False, a 5% tolerance is allowed.
+
 **🔧🔧🔧EvoChart corpus will be open-sourced soon.**
 
 ## Citation
