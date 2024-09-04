@@ -4,7 +4,9 @@ This repository contains the code and data for the paper "EvoChart: A Benchmark 
 
 **Hugging Face Model:** [https://huggingface.co/MuyeHuang/EvoChart](https://huggingface.co/MuyeHuang/EvoChart)
 
-**EvoChart-QA dataset will be open-sourced soon.**
+**EvoChart corpus will be open-sourced soon.**
+
+**EvoChart-QA benchmark will be open-sourced soon.**
 
 ## Citation
 
