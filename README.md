@@ -2,15 +2,15 @@
 
 This repository contains the code and data for the paper "EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding".
 
-**Hugging Face Model:** [https://huggingface.co/MuyeHuang/EvoChart](https://huggingface.co/MuyeHuang/EvoChart)
+**Hugging Face Model:** [huggingface.co](https://huggingface.co/MuyeHuang/EvoChart)
+
+**The EvoChart-QA Benchmark can be downloaded at:** [drive.google.com](https://drive.google.com/file/d/17i9WPi_AKVc6OZopBblm4BghwXCwhTrm/view?usp=drive_link)
 
 **EvoChart corpus will be open-sourced soon.**
 
-**EvoChart-QA benchmark will be open-sourced soon.**
-
 ## Citation
 
-If you find this work helpful, please cite our paper:
+If you find it helpful, please kindly cite our paper.
 
 ```bibtex
 @misc{huang2024evochartbenchmarkselftrainingapproach,
