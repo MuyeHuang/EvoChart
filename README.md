@@ -25,7 +25,7 @@ This repository contains the code and data for the paper "EvoChart: A Benchmark 
 
 **🚀🚀🚀 The EvoChart-QA Benchmark can be downloaded at:** [drive.google.com](https://drive.google.com/file/d/17i9WPi_AKVc6OZopBblm4BghwXCwhTrm/view?usp=drive_link)
 
-**📂📂📂 EvoChart corpus can be downloaded at:** [pan.quark.cn](https://pan.quark.cn/s/2f4847262db4)
+**📂📂📂 EvoChart corpus can be downloaded at:** [pan.quark.cn](https://pan.quark.cn/s/2f4847262db4) [huggingface](https://huggingface.co/datasets/MuyeHuang/EvoChart-Corpus) [modelscope](https://www.modelscope.cn/datasets/HUANGMUYE/EvoChart-Corpus)
 
 **EvoChart-QA Benchmark Answer Verification:**
 
